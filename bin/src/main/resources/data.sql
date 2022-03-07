@@ -1,9 +1,9 @@
-INSERT INTO employee(id,name,designation,salary,age) values(101,'Shubhuu','manager',120000,24);
-INSERT INTO employee(id,name,designation,salary,age) values(102,'Gauri','CEO',1200000,22);
-INSERT INTO employee(id,name,designation,salary,age) values(103,'Poooogi','Developer',1200000,28);
-INSERT INTO employee(id,name,designation,salary,age) values(104,'Ammmmuuuuuu','IAS',3600000,24);
+INSERT INTO employee(id,name,designation,salary,age) values(1,'Aryan','Clerk',400000,258);
+INSERT INTO employee(id,name,designation,salary,age) values(2,'Gulshan','SDM',5000000,369);
+INSERT INTO employee(id,name,designation,salary,age) values(3,'Bittu','DM',6000000,147);
+INSERT INTO employee(id,name,designation,salary,age) values(4,'Suraj','IAS',7000000,259);
 
-INSERT INTO employee(id,name,designation,salary,age) values(105,'Shubhuu','manager',400,24);
-INSERT INTO employee(id,name,designation,salary,age) values(106,'Gauri','CEO',410,99);
-INSERT INTO employee(id,name,designation,salary,age) values(107,'Poooogi','Developer',420,182);
-INSERT INTO employee(id,name,designation,salary,age) values(108,'Ammmmuuuuuu','IAS',430,69);
+INSERT INTO employee(id,name,designation,salary,age) values(5,'Aryan','Clerk',513,22);
+INSERT INTO employee(id,name,designation,salary,age) values(6,'Gulshan','SDM',321,33);
+INSERT INTO employee(id,name,designation,salary,age) values(7,'Bittu','DM',542,444);
+INSERT INTO employee(id,name,designation,salary,age) values(8,'Suraj','IAS',356,555);
